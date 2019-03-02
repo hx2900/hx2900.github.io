@@ -2,9 +2,9 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://hx2900.github.io
 date_format: "ordinal"
-title: Blog
+title: BLOG
 subtitle: "道路千万条，安全第一条"
 description: "个人博客"
 keywords: airlin, xin,
@@ -80,7 +80,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: hx2900/hx2900.github.io
 
 # ---------------- #
 #      Comments    #
@@ -94,17 +94,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: hx2900
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: a1e12288714afd0a6002
+        client_secret: 47e10eab3f0f75f4af5ba86fb7b40a1acedc3432
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: hx2900
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: a1e12288714afd0a6002
+    clientSecret: 47e10eab3f0f75f4af5ba86fb7b40a1acedc3432
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
