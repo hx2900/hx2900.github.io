@@ -1,6 +1,6 @@
-# 码志
+# Blog
 
-我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<https://hx2900.github.io/>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -13,12 +13,6 @@
 * [致谢](#致谢)
 
 <!-- vim-markdown-toc -->
-
-## 效果预览
-
-**[在线预览 &rarr;](https://mazhuang.org)**
-
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
@@ -38,7 +32,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
    **评论模块：** 目前支持 disqus、gitment 和 gitalk，选用其中一种就可以了，推荐使用 gitalk。它们各自的配置指南链接在 \_config.yml 文件的 Comments 一节里都贴出来了。
 
-   **注意：** 如果使用 disqus，因为 disqus 处理用户名与域名白名单的策略存在缺陷，请一定将 disqus.username 修改成你自己的，否则请将该字段留空。我对该缺陷的记录见 [Issues#2][3]。
+   **注意：** 如果使用 disqus，因为 disqus 处理用户名与域名白名单的策略存在缺陷，请一定将 disqus.username 修改成你自己的，否则请将该字段留空。
 
 4. 删除我的文章与图片。
 
@@ -56,8 +50,6 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 ## 贴心提示
 
 1. 排版建议遵照一定的规范，推荐 [中文文案排版指北（简体中文版）][1]。
-
-2. 在本地预览博客效果可以参考 [Setting up your Pages site locally with Jekyll][2]。
 
 ## 经验与思考
 
@@ -77,6 +69,5 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 本博客外观基于 [DONGChuan](https://dongchuan.github.io) 修改，感谢！
 
-[1]: https://github.com/mzlogin/chinese-copywriting-guidelines
-[2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
-[3]: https://github.com/mzlogin/mzlogin.github.io/issues/2
+[1]: https://github.com/hx2900/chinese-copywriting-guidelines
+
