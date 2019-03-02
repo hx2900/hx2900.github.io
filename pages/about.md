@@ -1,24 +1,17 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 道路千万条，安全第一条
+keywords: Xin Huang，airlin_hx
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+有些事情不是看到希望才去坚持，
 
-仰慕「优雅编码的艺术」。
+而是坚持了才会看到希望。
 
-坚信熟能生巧，努力改变人生。
-
-## 联系
-
-{% for website in site.data.social %}
-* {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
-{% endfor %}
 
 ## Skill Keywords
 
